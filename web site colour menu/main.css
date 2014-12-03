@@ -1,0 +1,55 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:verdana;
+}
+
+header{
+	margin:100px auto;
+	width:1200px;
+	height:230px;
+	background-color:red;
+}
+
+div.container{
+	width:200px;
+	height:230px;
+	float:left;
+}
+
+header img{
+	height:100px;
+	width:100px;
+}
+
+div#one{
+	background-color:rgb(200,101,3);
+}
+
+div#two{
+	background-color:rgb(233,147,26);
+}
+
+div#three{
+	background-color:rgb(22,145,190);
+}
+
+div#four{
+	background-color:rgb(22,107,162);
+}
+
+div#five{
+	background-color:rgb(27,54,71);
+}
+
+div#six{
+	background-color:rgb(21,40,54);
+}
+
+img.icon{
+	display:block;
+	margin:50px auto;
+	background-color:red;
+	padding:20px;
+	-webkit-border-radius:50%
+}
